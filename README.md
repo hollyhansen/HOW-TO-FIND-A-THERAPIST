@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# HOW TO FIND A THERAPIST 
+A logistics guide for millenials in 2018. Or at least how I do it. 
+Holly Hansen
 
-You can use the [editor on GitHub](https://github.com/hollyhansen/how-to-find-a-therapist/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey. I’ve created this guide to help with the logistics of finding a therapist. While I may have no professional psychology experience, I have years of practice maneuvering insurance and resources to find a mental health provider. The task of finding a therapist may seem insurmountable to some, so I truly hope this guide helps you get the ball rolling. This guide is written with the idea of a first timer with insurance in mind, but will likely benefit other life situations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## IS THERAPY FOR ME?
 
-### Markdown
+Therapy is a useful tool for all aspects in life, you don’t need to have a diagnosable mental illness to benefit. Whether you’re just going through a rough patch for too long or treating a disorder, your therapist your best tool. Oftentimes therapy is the 1st, and maybe only, step towards recovery. Therapy is almost always a non-negotiable aspect of treating mental health disorders. It's important to seek therapy when you are facing any emotional experience that is getting in the way of daily life. You cannot rely on your loved ones to give the support only a professional can provide. You yourself are not a professional. Even professionals need professionals.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Therapy is most useful because it teaches you invaluable, lifelong coping mechanisms to help you face any battle. Your therapist can also guide you to other resources available to you. Furthermore, therapy is helpful because having someone outside of your life to talk through your struggles is stabling for anyone. And if it turns out it’s not for you, you can stop!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hollyhansen/how-to-find-a-therapist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
