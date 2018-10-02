@@ -47,7 +47,7 @@ Think about the financial investment you are about to take on. Realistically, ho
 
 How am I going to find someone I trust? What if I don’t feel they could help? Think about why you’re searching for a therapist. I know it’s because you feel terrible and you’ve heard this is good relief, but forming those thoughts into sentences will help you get a good idea on what you need in a therapist. It’s okay if you truly don’t know.
 
-- Psychology Today (https://www.psychologytoday.com/us) is a great resource for finding a therapist. They had advanced search feature so you’re more likely you’ll find something you can commit to. Search by insurance, location, and speciality. Sometimes adjusting the filters and exploring options helps you discover what you want and don’t in a therapist.
+- Psychology Today <https://www.psychologytoday.com/us> is a great resource for finding a therapist. They had advanced search feature so you’re more likely you’ll find something you can commit to. Search by insurance, location, and speciality. Sometimes adjusting the filters and exploring options helps you discover what you want and don’t in a therapist.
 
 - Your insurance company may also have a site for finding a provider. Use both websites to get an idea of who is covered by your insurance and crosscheck information.
 
@@ -109,9 +109,9 @@ Crisis Call Center: 1 (800) 273-8255
 Alcohol & Drug Hotline: (800) 821-4357  
 Al-Anon Hotline:  (800) 344-2666  
 Samaritans (UK Crisis Help, Anywhere in the UK or Ireland): 116 123  
-Warmlines: (http://warmline.org)     
-Tips for mental health without insurance: (https://themighty.com/2017/08/mental-health-care-no-insurance/)       
-HHS HIPPA policy further information: (https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html)     
+Warmlines: <http://warmline.org>     
+Tips for mental health without insurance: <https://themighty.com/2017/08/mental-health-care-no-insurance/>       
+HHS HIPPA policy further information: <https://www.hhs.gov/hipaa/for-professionals/special-topics/mental-health/index.html>     
 
 
 
