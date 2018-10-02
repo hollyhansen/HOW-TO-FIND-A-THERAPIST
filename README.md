@@ -21,7 +21,7 @@ _How many visits are covered a year?_
 Those who do may only cover a certain amount of visits a year, or unlimited with proper documentation. Literally why.
 
 _Do I need a pre-authorization?_  
-Once you’ve found a provider and feel good about them you may need to ask your insurance for authorization before a consultation. I don’t know why they get any say here but they do.
+Once you’ve found a provider, and feel good about them, you may need to ask your insurance for authorization before a consultation. I don’t know why they get any say here but they do.
 
 _What is my behavioral health deductible?_  
 Some companies have a separate behavioral health deductible from your main deductible. How would you have known? Now you do.
@@ -40,7 +40,7 @@ You may find an awesome therapist that is not in-network. You’ll need to know 
 
 Exhausting, right? You’ve really set yourself up for success now, and there won’t be any surprises down the road.
 
-Think about the financial investment you are about to take on. Realistically, how much can you spend on therapy a month? Can you budget it in? While many therapist are flexible with price, you have to be okay with making this commitment. I wish I could say just do it anyway, but that’s not realistic. Remember, you can always stop or speak with your therapist about price any time.
+Think about the financial investment you are about to take on. Realistically, how much can you spend on therapy a month? Can you budget it in? While many therapists are flexible with price, you have to be okay with making this commitment. I wish I could say just do it anyway, but that’s not realistic. Remember you can always stop or speak with your therapist about price any time.
 
 
 # GETTING STARTED
